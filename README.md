@@ -1,6 +1,6 @@
-<h1 align="center">✨ MinseoKangQ ✨</h3>
+<h1 align="center">✨ MinseoKangQ ✨</h1>
 
-<hr>
+
 
 <h3 align="center">📝 What Can I use 📝</h3>
 <p align="center"> Techs that I've used at least once </p>
