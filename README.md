@@ -1,6 +1,7 @@
 <h1 align="center">✨ MinseoKangQ ✨</h1>
 
-
+<br>
+<br>
 
 <h3 align="center">📝 What Can I use 📝</h3>
 <p align="center"> Techs that I've used at least once </p>
@@ -19,6 +20,7 @@
 </p>
 <br>
 
+
 <h3 align="center">📚 Study in Progress 📚</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp
@@ -28,10 +30,30 @@
 </p>
 <br>
 
-<h3 align="center">👩‍💻 Project in Progress 👩‍💻</h3>
-<p align="center">
 
-</p>
+
+<div align=center>
+
+<h3 align="center">🌐 Top Langs 🌐</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseoKangQ&layout=compact)](https://github.com/minseoKangQ/github-readme-stats)
+
+<br>
+
+
+<h3 align="center">👩‍💻 GitHub Stats 👩‍💻</h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseoKangQ&show_icons=true&theme=merko)
+
+<br>
+
+
+<h3 align="center">🏆 Baekjoon solved rank 🏆</h3>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kms02171)](https://solved.ac/y2hscmtk)
+
+</div>
+
 <br>
 
 
@@ -40,4 +62,3 @@
     <p align="center">kms02171@naver.com</p>
 </p>
 <br>
-
