@@ -36,14 +36,14 @@
 
 <h3 align="center">🌐 Top Langs 🌐</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseoKangQ&layout=compact)](https://github.com/minseoKangQ/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinseoKangQ&layout=compact)](https://github.com/MinseoKangQ/github-readme-stats)
 
 <br>
 
 
 <h3 align="center">👩‍💻 GitHub Stats 👩‍💻</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseoKangQ&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinseoKangQ&show_icons=true&theme=merko)
 
 <br>
 
