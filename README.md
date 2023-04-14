@@ -59,7 +59,8 @@
 <h3 align="center">🏆 Baekjoon solved rank 🏆</h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kms02171)](https://solved.ac/kms02171)
-
+&nbsp; 
+[![Solved.ac profile](http://mazandi.herokuapp.com/api?handle=gyeongmin&theme=dark)](https://solved.ac/kms02171/)
 </div>
 
 <br>
