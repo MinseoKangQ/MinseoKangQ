@@ -44,7 +44,7 @@
 
 <h3 align="center">🌐 Top Langs 🌐</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinseoKangQ&layout=compact)](https://github.com/MinseoKangQ/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinseoKangQ&layout=compact&theme=merko)](https://github.com/MinseoKangQ/github-readme-stats)
 
 <br>
 
