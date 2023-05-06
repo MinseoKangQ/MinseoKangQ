@@ -11,8 +11,7 @@
 
 <br>
 
-<h3 align="center">📝 What Can I use 📝</h3>
-<p align="center"> Techs that I've used at least once </p>
+<h3 align="center">📝 What Can I use 📝</h3> 
 <p align="center">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp    
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp
@@ -30,16 +29,6 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
 <br>
-
-
-<h3 align="center">📚 Study in Progress 📚</h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>&nbsp
-</p>
-<br>
-
-
 
 <div align=center>
 
@@ -63,12 +52,3 @@
 &nbsp; 
 [![Solved.ac profile](http://mazandi.herokuapp.com/api?handle=kms02171&theme=dark)](https://solved.ac/kms02171/)
 </div>
-
-<br>
-
-
-<h3 align="center">📧 Contact 📧 </h3>
-<p align="center">
-    <p align="center">kms02171@naver.com</p>
-</p>
-<br>
