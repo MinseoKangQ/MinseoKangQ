@@ -41,7 +41,7 @@
 
 <h3 align="center">👩‍💻 GitHub Stats 👩‍💻</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinseoKangQ&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinseoKangQ&show_icons=true&theme=tokyonight&count_private=true)
 
 <br>
 
