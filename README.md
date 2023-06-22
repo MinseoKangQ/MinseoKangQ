@@ -15,13 +15,13 @@
 <hr>
 <p align="center">
 
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/IntelliJ IDEA-black?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>&nbsp
-    
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/IntelliJ IDEA-black?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>&nbsp
+
 </p>
 <br>
 <br>
