@@ -45,6 +45,7 @@
 <br>
 
 <div align=center>
+    
 <h3 align="center">Top Langs </h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinseoKangQ&layout=compact&theme=merko)](https://github.com/MinseoKangQ/github-readme-stats)
@@ -58,14 +59,11 @@
 
 <br>
 
-hi
-
+<h3 align="center">My Projects</h3>
 <div align="center">
 
 <a href="https://github.com/GomGomLeee/gomgom-back">곰곰이</a>
-
 <br>
-
-<a href="https://github.com/Likelion-All-Together/all-together">다모여</a>
+<a href="https://github.com/Likelion-All-Together/all-together">다모여 (in progress)</a>
 
 </div>
