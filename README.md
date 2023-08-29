@@ -48,22 +48,25 @@
     
 <h3 align="center">Top Langs </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinseoKangQ&layout=compact&theme=merko)](https://github.com/MinseoKangQ/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinseoKangQ&langs_count=10&layout=compact&theme=merko)]()
 
 <br>
 
 
 <h3 align="center">GitHub Stats</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinseoKangQ&show_icons=true&theme=tokyonight&count_private=true)
+[![MinseoKangQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinseoKangQ&theme=tokyonight&count_private=true)]()
 
 <br>
 
 <h3 align="center">My Projects</h3>
+
 <div align="center">
 
 <a href="https://github.com/GomGomLeee/gomgom-back">곰곰이</a>
+
 <br>
+
 <a href="https://github.com/Likelion-All-Together/all-together">다모여</a>
 
 </div>
