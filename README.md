@@ -59,14 +59,12 @@
 
 <br>
 
-<h3 align="center">My Projects</h3>
+<h3 align="center">Projects</h3>
 
 <div align="center">
 
 <a href="https://github.com/GomGomLeee/gomgom-back">곰곰이</a>
-
 <br>
-
 <a href="https://github.com/Likelion-All-Together/all-together">다모여</a>
 
 </div>
