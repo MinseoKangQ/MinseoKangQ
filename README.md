@@ -64,10 +64,7 @@
 
 <div align="center">
 
-<a href="https://github.com/GomGomLeee/gomgom-back">[곰곰이]</a> use Django
-<br>
-<a href="https://github.com/Likelion-All-Together/all-together">[다모여]</a> use Django
-<br>
-<a href="https://github.com/PieceOfStar/quiz-2023-2">[별조각 동아리 박람회 퀴즈]</a> use Django
+<a href="https://github.com/GomGomLeee/gomgom-back">[곰곰이]</a> / <a href="https://github.com/Likelion-All-Together/all-together">[다모여]</a> / <a href="https://github.com/PieceOfStar/quiz-2023-2"> [별조각 동아리 박람회 퀴즈]</a>
+<br><a href="https://github.com/MinseoKangQ/springboot-server">[썸노트]</a>
 
 </div>
