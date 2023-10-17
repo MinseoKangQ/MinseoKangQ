@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-black?style=for-the-badge&logo=IntelliJIDEA&logoColor=white"/>
 
-</p>
+</p> 
 <br>
 
 <h3 align="center">Available</h3>
