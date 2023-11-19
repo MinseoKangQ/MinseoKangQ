@@ -66,7 +66,9 @@
 
 <div align="center">
 
-<a href="https://github.com/MinseoKangQ/gomgom-back">[곰곰이]</a> / <a href="https://github.com/MinseoKangQ/all-together">[다모여]</a> / <a href="https://github.com/MinseoKangQ/quiz-2023-2"> [별조각 동아리 박람회 퀴즈]</a>
+<a href="https://github.com/MinseoKangQ/gomgom-back">[곰곰이]</a>
+<br><a href="https://github.com/MinseoKangQ/all-together">[다모여]</a> <br>
+<a href="https://github.com/MinseoKangQ/quiz-2023-2"> [별조각 동아리 박람회 퀴즈]</a>
 <br><a href="https://github.com/MinseoKangQ/springboot-server">[썸노트]</a> / <a href="https://github.com/MinseoKangQ/blackBoard-back">[졸업을 축하합니다! 온라인 칠판 편지]</a>
 
 </div>
