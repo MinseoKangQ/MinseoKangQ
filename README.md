@@ -4,7 +4,7 @@
 
 <br>
 
-<h3 align="center">Main skills</h3>
+<h3 align="center">🪄 Main skills</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -19,9 +19,14 @@
 </p>
 
 
-<br>
 
-<h3 align="center">Available skills</h3>
+
+<br><br>
+
+
+
+
+<h3 align="center">🛠️ Available skills</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -41,24 +46,34 @@
   </a> <!-- mqtt -->
 </p>
 
-<br>
+
+
+<br><br>
+
+
+
 
 <div align=center>
     
-<h3 align="center">Top Langs </h3>
+<h3 align="center">🎖️ Top Langs </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinseoKangQ&langs_count=10&layout=compact&theme=merko)]()
-
-<br>
-
-
-<h3 align="center">GitHub Stats</h3>
-
-[![MinseoKangQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinseoKangQ&theme=tokyonight&count_private=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinseoKangQ&langs_count=10&layout=compact&theme=react)]()
 
 <br>
 
-<h3 align="center">Projects</h3>
+
+<h3 align="center">😺 GitHub Stats</h3>
+
+[![MinseoKangQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinseoKangQ&theme=react&count_private=true)]()
+
+
+
+<br><br>
+
+
+
+
+<h3 align="center">📁 Projects</h3>
 
 <div align="center">
 
@@ -71,7 +86,7 @@
         <td><strong>Develop Period</strong></td>
     </tr>
     <tr>
-        <td style="text-align: center;">🏆</td>
+        <td align="center">🏆</td>
         <td><a href="https://github.com/MinseoKangQ/gomgom-back">Gomgom.ver1</a></td>
         <td>Back-end</td>
         <td style="vertical-align: middle;"><p align="center">
@@ -93,7 +108,7 @@
         <td>2023.08.23 ~ 2023.08.28</td>
     </tr>
     <tr>
-        <td style="text-align: center;">🏆</td>
+        <td align="center">🏆</td>
         <td><a href="https://github.com/MinseoKangQ/sumnote-springboot-server">Sum Note</a></td>
         <td>Back-end</td>
         <td style="vertical-align: middle;"><p align="center">
@@ -104,7 +119,7 @@
         <td>2023.07.22 ~ 2023.09.20</td>
     </tr>
     <tr>
-        <td style="text-align: center;">🏆</td>
+        <td align="center">🏆</td>
         <td><a href="https://github.com/MinseoKangQ/blackBoard-back">Online blackboard letter</a></td>
         <td>Back-end</td>
         <td style="vertical-align: middle;"><p align="center">
