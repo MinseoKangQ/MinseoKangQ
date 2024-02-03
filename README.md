@@ -1,8 +1,6 @@
 <h1 align="center">✨ MinseoKangQ ✨</h1>
 
-<br>
-
-<br>
+<br><br>
 
 <h3 align="center">🪄 Main skills</h3>
 
@@ -59,7 +57,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinseoKangQ&langs_count=10&layout=compact&theme=react)]()
 
-<br>
+
+
+<br><br>
 
 
 <h3 align="center">😺 GitHub Stats</h3>
