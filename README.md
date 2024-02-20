@@ -1,14 +1,16 @@
 <h1 align="center">✨ MinseoKangQ ✨</h1>
 
+
+<br><br>
+
+
 <br><br>
 
 <h3 align="center">💌 My Service</h3>
 
-<h6 align="center"><a href="https://black-board.site">Online blackboard letter service</a></h6>
+<h4 align="center"><a href="https://black-board.site">Online blackboard letter service</a></h4>
 
-<br>
-
-<br>
+<br><br>
 
 
 <h3 align="center">🪄 Main skills</h3>
@@ -54,32 +56,45 @@
 </p>
 
 
-
 <br><br>
 
 
+
+
+<h3 align="center">📚 Now studying</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </a>
+</p>
+
+<br><br>
+
+<h3 align="center">🖋️ My Blog</h3>
+
+<h4 align="center">
+
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=coding-orange&theme=vue-dark)](https://coding-orange.tistory.com/)
+
+</h4>
+
+<br><br>
 
 
 <div align=center>
     
-<h3 align="center">🎖️ Top Langs </h3>
+<h3 align="center">🎖️ Top Langs | 😺 GitHub Stats</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinseoKangQ&langs_count=10&layout=compact&theme=react)]()
+<div>
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinseoKangQ&langs_count=10&layout=compact&theme=react)]()
 
+  [![MinseoKangQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinseoKangQ&theme=react&count_private=true)]()
 
-<br><br>
-
-
-<h3 align="center">😺 GitHub Stats</h3>
-
-[![MinseoKangQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinseoKangQ&theme=react&count_private=true)]()
-
-
+</div>
 
 <br><br>
-
-
 
 
 <h3 align="center">📁 Projects</h3>
@@ -150,8 +165,6 @@
         <td>2023.10.12 ~ 2023.12.04</td>
     </tr>
 </table>
-
-
 
 <!--
 <a href="https://github.com/MinseoKangQ/gomgom-back">[곰곰이] - django.ver</a><br>
