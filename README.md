@@ -164,6 +164,17 @@
         </p></td>
         <td>2023.10.12 ~ 2023.12.04</td>
     </tr>
+    <tr>
+      <td></td>
+      <td><a href="https://github.com/a-minute-society">A minute society</a></td>
+      <td>Back-end</td>
+      <td style="vertical-align: middle;"><p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=spring,ubuntu" />
+        </a>
+      </p></td>
+      <td>2024.02.12 ~ 2024.02.24</td>
+    </tr>
 </table>
 
 <!--
