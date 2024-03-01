@@ -1,17 +1,6 @@
 <h1 align="center">✨ MinseoKangQ ✨</h1>
 
-
 <br><br>
-
-
-<br><br>
-
-<h3 align="center">💌 My Service</h3>
-
-<h4 align="center"><a href="https://black-board.site">Online blackboard letter service</a></h4>
-
-<br><br>
-
 
 <h3 align="center">🪄 Main skills</h3>
 
