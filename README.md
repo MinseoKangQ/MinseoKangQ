@@ -168,8 +168,22 @@
           <img src="https://skillicons.dev/icons?i=spring,ubuntu" />
         </a>
       </p></td>
-      <td>2024.02.12 ~ 2024.02.04</td>
+      <td>2024.02.13 ~ 2024.02.27</td>
     </tr>
+    <tr>
+      <td align="center"></td>
+      <td><a href="https://github.com/MinseoKangQ/github-readme-generator">Github Readme Generator</a></td>
+      <td>Back-end</td>
+      <td style="vertical-align: middle;"><p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=react,github" />
+        </a>
+      </p></td>
+      <td>2024.03.02 ~ ing</td>
+    </tr>
+
+    
+    
 </table>
 
 
