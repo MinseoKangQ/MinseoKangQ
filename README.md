@@ -59,7 +59,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker" />
+    <img src="https://skillicons.dev/icons?i=docker,swift" />
   </a>
 </p>
 
@@ -173,7 +173,7 @@
     <tr>
       <td align="center"></td>
       <td><a href="https://github.com/MinseoKangQ/github-readme-generator">Github Readme Generator</a></td>
-      <td>Back-end</td>
+      <td>Front-end, Back-end</td>
       <td style="vertical-align: middle;"><p align="center">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=react,github" />
