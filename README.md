@@ -83,7 +83,9 @@
 
 <div>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MinseoKangQ&langs_count=10&layout=compact&theme=react)]()
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinseoKangQ&langs_count=10&layout=compact&theme=react) -->
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinseoKangQ&langs_count=10&layout=compact&theme=react)](https://github.com/MinseoKangQ/github-readme-stats)
 
   [![MinseoKangQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinseoKangQ\&rank_icon=github&theme=react&count_private=true)]()
 
