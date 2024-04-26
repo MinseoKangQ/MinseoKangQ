@@ -59,7 +59,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,swift" />
+    <img src="https://skillicons.dev/icons?i=docker,swift,jenkins" />
   </a>
 </p>
 
