@@ -28,28 +28,10 @@
 
 <h3>🪄 Main Skills </h3>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,mysql,postman,aws,git,github,idea,gradle,ubuntu" />
+        <img src="https://skillicons.dev/icons?i=java,spring,mysql,postman,aws,git,github,idea,gradle,ubuntu,docker,ansible,swift,jenkins" />
     </a>
 
-
 <br><br>
-
-<h3>📚 Now studying</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,ansible,swift,jenkins" />
-  </a>
-
-
-<br><br>
-
-
-<!-- <h3>🛠️ Available skills</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,html,css,js,react,nodejs,py,kotlin,flask,django" />
-  </a>
-
-
-<br><br> -->
 
     
 <h3>🎖️ Top Langs & 😺 GitHub Stats</h3>
