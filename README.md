@@ -9,14 +9,14 @@
 - 2023: 멋쟁이사자처럼 11기 BE 아기사자
 - **2022.12 ~ 2024.06: HSU 교내 정보화팀 서버 개발자**
 
-<br><br>
+<!-- <br><br>
 
 <h3>📜 Certifications</h3>
 
 - 정보처리기사
 - TOEIC 900
 - OPIC IH
-- SQLD
+- SQLD -->
 
 <br><br>
 
